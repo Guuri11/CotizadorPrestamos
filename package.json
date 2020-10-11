@@ -10,8 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/picker": "^1.8.1",
+    "lodash.isequal": "^4.5.0",
     "react": "16.13.1",
-    "react-native": "0.63.3"
+    "react-native": "0.63.3",
+    "react-native-picker-select": "^8.0.1",
+    "tsutils": "^3.17.1",
+    "typescript": "^4.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
